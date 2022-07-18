@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyWavePortal-Frontend/static/css/main.d6bd5291.css",
+    "main.js": "/MyWavePortal-Frontend/static/js/main.69e2886a.js",
+    "static/js/787.cd7147ce.chunk.js": "/MyWavePortal-Frontend/static/js/787.cd7147ce.chunk.js",
+    "index.html": "/MyWavePortal-Frontend/index.html",
+    "main.d6bd5291.css.map": "/MyWavePortal-Frontend/static/css/main.d6bd5291.css.map",
+    "main.69e2886a.js.map": "/MyWavePortal-Frontend/static/js/main.69e2886a.js.map",
+    "787.cd7147ce.chunk.js.map": "/MyWavePortal-Frontend/static/js/787.cd7147ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bd5291.css",
+    "static/js/main.69e2886a.js"
+  ]
+}
